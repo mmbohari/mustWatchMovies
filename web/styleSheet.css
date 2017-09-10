@@ -1,0 +1,13 @@
+
+.section-img{
+    float: left;
+}
+
+.section-desc{
+    margin-left: 210px;
+}
+
+img{
+    width: 182px;
+    height: 268px;
+}
