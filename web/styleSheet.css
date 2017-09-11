@@ -1,12 +1,13 @@
-.section-img{
+h1{
+    text-align: center;
+}
+
+img.thumbnail{
+    width: 182px;
+    height: 268px;
     float: left;
 }
 
 .section-desc{
     margin-left: 210px;
-}
-
-img{
-    width: 182px;
-    height: 268px;
 }
