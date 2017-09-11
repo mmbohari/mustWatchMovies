@@ -1,13 +1,69 @@
-h1{
-    text-align: center;
+body{
+    font-family: sans-serif;
+    color: gray;
 }
 
+/*
+Style is applied to title of homepage/index
+Eg: Must Watch Movies
+ */
+h1{
+    text-align: center;
+    border-bottom:1px solid black;
+    color: dodgerblue;
+}
+
+/*
+Style is applied to the title of pages
+Eg: Heading for Hollywood Page - Gems of Hollywood
+ */
+h2{
+    color: dodgerblue;
+}
+
+/*
+Style applied to section heading
+Eg: Section heading on homepage - Description
+ */
+h3{
+    color: dodgerblue;
+}
+
+/*
+Style applied to movie names
+ */
+h4{
+    color: green;
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+}
+
+/*
+Style applied to thumbnail of movie posters
+ */
 img.thumbnail{
     width: 182px;
     height: 268px;
     float: left;
 }
 
+b{
+    color: dimgray;
+
+}
+
+a.link{
+    color: green;
+}
+
+a.fotter{
+    color: dodgerblue;
+}
+
+/*
+Style applied to description of movies
+ */
 .section-desc{
     margin-left: 210px;
 }
+
